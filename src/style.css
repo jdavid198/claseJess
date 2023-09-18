@@ -1,9 +1,14 @@
 body{
+    color: white;
+    background: black;
+    font-size: 72px;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: black;
-    color: white;
-    text-align: center;
+}
+button{
+    padding: 15px;
+    background-color: green;
+    font-size: 72px;
 }
